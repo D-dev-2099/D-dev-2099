@@ -2,7 +2,7 @@
 
 ## 🚀 DevSecOps Engineer | DevOps Mentor | Friendly & Professional
 
-Welcome to my GitHub profile! With nearly 4 years of experience in DevSecOps and DevOps engineering, I am passionate about sharing knowledge, guiding aspiring engineers, and supporting professionals in their DevOps journey.
+Welcome to my GitHub profile! With experience in DevSecOps and DevOps engineering, I am passionate about sharing knowledge, guiding aspiring engineers, and supporting professionals in their DevOps journey.
 
 ---
 
