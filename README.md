@@ -1,61 +1,61 @@
 # 👋 Hi, I'm Deepthi Kommareddy
 
-## 🚀 DevSecOps Engineer | DevOps Mentor | Friendly & Professional
-
-Welcome to my GitHub profile! With experience in DevSecOps and DevOps engineering, I am passionate about sharing knowledge, guiding aspiring engineers, and supporting professionals in their DevOps journey.
+### DevSecOps & AI Infrastructure Engineer | 3.5 Years | India → Open to Abroad
 
 ---
 
-### 👩‍💻 **About Me**
+## 🛠️ Technical Skills
 
-- **Current Role :** DevSecOps Engineer at Tritech Infosystems (Mar 2026 - Present)
-- **Previous Role :** DevSecOps Engineer at Hawis Tech Solution (Oct 2023 - Feb 2026)
-- **Previous Role:** DevSecOps Engineer at Wipro (2021 - Oct 2023)
-- **Total Experience:** 3 years 11 months
-- **LinkedIn:** [Deepthi Kommareddy](https://www.linkedin.com/in/deepthikommareddy/)
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-EKS%20%7C%20Lambda%20%7C%20EC2%20%7C%20API%20Gateway%20%7C%20S3%20%7C%20CloudWatch-FF9900?logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-ACE%20Certified-4285F4?logo=google-cloud)
 
----
+### 🐳 Containers & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS%20%7C%20Helm%20%7C%20Karpenter-326CE5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
 
-### 🛠️ **Technical Skills**
+### 🔒 Security (DevSecOps)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Runtime%20Security-E00?logo=crowdstrike)
+![Trivy](https://img.shields.io/badge/Trivy-Container%20Scanning-1904DA)
+![Snyk](https://img.shields.io/badge/Snyk-SCA-4C4A73?logo=snyk)
+![SonarQube](https://img.shields.io/badge/SonarQube-SAST-4E9BCD?logo=sonarqube)
 
-- **Containerization & Orchestration:** Kubernetes, Docker
-- **CI/CD & Automation:** Jenkins, GitHub Actions, ArgoCD, Ansible, Terraform
-- **Scripting & Programming:** Shell Scripting, Python
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Splunk
-- **Security & Compliance:** Trivy
-- **Messaging & Streaming:** Kafka
-- **Operating System:** Linux
-- **Other:** Google Gemini, Roboshop
+### ⚙️ IaC & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-D24939?logo=jenkins)
+![Harness](https://img.shields.io/badge/Harness-CD-00ADE4)
 
----
+### 📊 Observability
+![New Relic](https://img.shields.io/badge/New_Relic-APM-008C99?logo=newrelic)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Tracing-000000?logo=opentelemetry)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana)
 
-### 🤝 **Mentorship Focus**
+### 🤖 AI & LLM Infrastructure
+![RAG](https://img.shields.io/badge/RAG-Pipelines-20B2AA)
+![LLM](https://img.shields.io/badge/LLM-OpenAI%20%7C%20AWS%20Bedrock-412991)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FastAPI%20%7C%20MCP-00CED1)
 
-As a mentor, I aim to:
-
-- **Empower DevOps Enthusiasts:** Whether you're just starting out or expanding your skillset, I offer guidance on DevOps methodologies, tools, and workflows.
-- **Share Real-World Experience:** I provide practical insights from both startup and enterprise environments.
-- **Cultivate a Supportive Community:** My mentoring style is friendly, approachable, and professional. I believe in open communication and continuous learning.
-- **Offer Hands-On Learning:** From code reviews to pipeline setups, I can help you master core DevOps concepts through real projects and examples.
-
----
-
-### 🌱 **How Can I Help You?**
-
-- Career guidance in DevOps/DevSecOps
-- Technical deep-dives on CI/CD, cloud-native security, monitoring, and automation
-- Resume and interview preparation for DevOps roles
-- Personalized learning paths and resources
-- Collaborative open-source projects
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-Scripting%20%7C%20FastAPI-3776AB?logo=python)
+![Bash](https://img.shields.io/badge/Bash-Automation-4EAA25?logo=gnu-bash)
 
 ---
 
-### 📫 **Let’s Connect!**
-
-- [LinkedIn](https://www.linkedin.com/in/deepthikommareddy/)
-- [GitHub Discussions](https://github.com/D-dev-2099)
-- Open to mentorship requests, collaboration, and knowledge sharing!
+## 🏆 Certifications
+- 🟡 **Google Cloud Associate Cloud Engineer** — Google Cloud
+- 🟢 **Outskill AI Fellowship** — 2026
 
 ---
 
-> **“DevOps is a journey, not a destination. Let’s travel it together!”**
+## 🌍 Open to
+- Senior/Lead DevSecOps roles in **Bangalore · Hyderabad · Chennai**
+- Remote positions
+- **Abroad roles with Visa Sponsorship** (EU · UK · Canada)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepthikommareddy-0A66C2?logo=linkedin)](https://linkedin.com/in/deepthikommareddy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devsecops--ai--hub-00CED1)](https://devsecops-ai-hub.preview.emergentagent.com)
