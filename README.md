@@ -8,7 +8,8 @@ Welcome to my GitHub profile! With experience in DevSecOps and DevOps engineerin
 
 ### 👩‍💻 **About Me**
 
-- **Current Role:** DevSecOps Engineer at Hawis Tech Solution (Oct 2023 - Present)
+- **Current Role :** DevSecOps Engineer at Tritech Infosystems (Mar 2026 - Present)
+- **Previous Role :** DevSecOps Engineer at Hawis Tech Solution (Oct 2023 - Feb 2026)
 - **Previous Role:** DevSecOps Engineer at Wipro (2021 - Oct 2023)
 - **Total Experience:** 3 years 11 months
 - **LinkedIn:** [Deepthi Kommareddy](https://www.linkedin.com/in/deepthikommareddy/)
